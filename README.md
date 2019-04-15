@@ -1,12 +1,12 @@
 Sparky GRUB Theme
 
 Files: /etc/grub.d/06_sparky_theme
-    Copyright (C) 2015-2017 Paweł Pijanowski
+    Copyright (C) 2015-2019 Paweł Pijanowski
     Copyright (C) 2010  Alexander Kurtz <kurtz.alex@googlemail.com>
     License: GPLv3
 
 Files: *
-    Copyright (C) 2015-2017 Paweł Pijanowski
+    Copyright (C) 2015-2019 Paweł Pijanowski
     License: GPLv3
 
 This program is free software: you can redistribute it and/or modify
