@@ -25,7 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 Dependencies:
 -------------
 sparky-artwork
-grub-pc | grub-efi
+grub-pc | grub-efi | grub-efi-amd64
 
 Install:
 -------------
